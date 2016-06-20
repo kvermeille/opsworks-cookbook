@@ -1,0 +1,1 @@
+Chef::Log.info("Omitting installing opsworks-nodejs")
