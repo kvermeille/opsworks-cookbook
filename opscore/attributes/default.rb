@@ -26,7 +26,7 @@ end
 
 default['opscore']['nodejs']['engine'] = 'node' # or iojs
 
-default['opscore']['nodejs']['version'] = '0.10.26'
+default['opscore']['nodejs']['version'] = '5.0.0'
 
 default['opscore']['nodejs']['prefix_url']['node'] = 'https://nodejs.org/dist/'
 default['opscore']['nodejs']['prefix_url']['iojs'] = 'https://iojs.org/dist/'
